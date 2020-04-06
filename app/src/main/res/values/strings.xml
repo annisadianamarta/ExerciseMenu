@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ExerciseMenu</string>
+    <string name="labelapp">LOGIN USER</string>
+    <string name="judul">Menu Hitung Bangun Datar</string>
+    <string name="un">Username</string>
+    <string name="ps">Password</string>
+    <string name="buton">Sign-In</string>
+    <string name="masukkan_password">Masukkan Password</string>
+    <string name="masukkan_username">Masukkan Username</string>
+    <string name="btn">SIGN-IN</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="masukkan_email">Masukkan Email</string>
+    <string name="segitiga">SEGITIGA</string>
+    <string name="persegi">PERSEGI</string>
+    <string name="persegipjg">PERSEGI PANJANG</string>
+    <string name="trapesium">TRAPESIUM</string>
+    <string name="lingkaran">LINGKARAN</string>
+    <string name="power">POWER</string>
+    <string name="cap">cap</string>
+    <string name="nim">20180140062-Annisa Dian Amarta</string>
+</resources>
